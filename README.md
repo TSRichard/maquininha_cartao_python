@@ -26,10 +26,11 @@ Um sistema simples em Python que simula as funcionalidades básicas de uma maqui
    git clone https://github.com/seu-usuario/maquininha-python.git
    cd maquininha-python
 2. **Execute o programa
+   ```bash
    python main.py
 
 📁 Estrutura do projeto
-    ```bash
+
     maquininha/
     ├── main.py           # Interface principal do programa
     ├── transacao.py      # Lógica de negócio (cálculos de transação)
@@ -37,7 +38,7 @@ Um sistema simples em Python que simula as funcionalidades básicas de uma maqui
     └── README.md         # Documentação do projeto
 
 🎯 Possíveis melhorias futuras
-    ```bash
+
     -Salvar histórico de transações em arquivo (JSON/CSV)
     -Adicionar taxa da maquininha (ex: 2% sobre cada venda
     -Função de cancelamento de venda
