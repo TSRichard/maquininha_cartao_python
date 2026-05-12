@@ -36,6 +36,7 @@ Um sistema simples em Python que simula as funcionalidades básicas de uma maqui
     ├── transacao.py      # Lógica de negócio (cálculos de transação)
     ├── utils.py          # Funções auxiliares (validação de entrada)
     └── README.md         # Documentação do projeto
+    └── LICENSE 
 
 🎯 Possíveis melhorias futuras
 
